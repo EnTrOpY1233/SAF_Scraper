@@ -1,0 +1,20 @@
+1. Get links from Google Custom Search API
+    str title
+    str url
+    str into
+2. Scraped from website
+    str main text
+3. Analyzed data from the article by AI
+    str company name
+    str annoucement date
+    double projected capacity, str unit
+    bool in production?
+    str contract type
+    str date published
+    str publisher
+4. Validity check by AI
+    int marksOfCRAAMCheck
+    bool repetitiveToOtherArticle
+    bool canBeUsedForDatabase
+
+
